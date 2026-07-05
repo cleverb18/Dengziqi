@@ -1,0 +1,415 @@
+{
+    "note":  "把授权音源放入 audio 目录，把授权 MV 放入 mv 目录；文件名按 01.mp3 / 01.mp4 对应曲目顺序。页面会优先播放本地文件，缺失时保留封面动态预览。",
+    "albums":  [
+                   {
+                       "slug":  "iam-gloria",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/iam-gloria/01.mp3",
+                                          "mv":  "assets/mv/iam-gloria/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/iam-gloria/02.mp3",
+                                          "mv":  "assets/mv/iam-gloria/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/iam-gloria/03.mp3",
+                                          "mv":  "assets/mv/iam-gloria/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/iam-gloria/04.mp3",
+                                          "mv":  "assets/mv/iam-gloria/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/iam-gloria/05.mp3",
+                                          "mv":  "assets/mv/iam-gloria/05.mp4"
+                                      },
+                                      {
+                                          "index":  6,
+                                          "audio":  "assets/audio/iam-gloria/06.mp3",
+                                          "mv":  "assets/mv/iam-gloria/06.mp4"
+                                      },
+                                      {
+                                          "index":  7,
+                                          "audio":  "assets/audio/iam-gloria/07.mp3",
+                                          "mv":  "assets/mv/iam-gloria/07.mp4"
+                                      },
+                                      {
+                                          "index":  8,
+                                          "audio":  "assets/audio/iam-gloria/08.mp3",
+                                          "mv":  "assets/mv/iam-gloria/08.mp4"
+                                      },
+                                      {
+                                          "index":  9,
+                                          "audio":  "assets/audio/iam-gloria/09.mp3",
+                                          "mv":  "assets/mv/iam-gloria/09.mp4"
+                                      },
+                                      {
+                                          "index":  10,
+                                          "audio":  "assets/audio/iam-gloria/10.mp3",
+                                          "mv":  "assets/mv/iam-gloria/10.mp4"
+                                      },
+                                      {
+                                          "index":  11,
+                                          "audio":  "assets/audio/iam-gloria/11.mp3",
+                                          "mv":  "assets/mv/iam-gloria/11.mp4"
+                                      },
+                                      {
+                                          "index":  12,
+                                          "audio":  "assets/audio/iam-gloria/12.mp3",
+                                          "mv":  "assets/mv/iam-gloria/12.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "revelation",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/revelation/01.mp3",
+                                          "mv":  "assets/mv/revelation/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/revelation/02.mp3",
+                                          "mv":  "assets/mv/revelation/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/revelation/03.mp3",
+                                          "mv":  "assets/mv/revelation/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/revelation/04.mp3",
+                                          "mv":  "assets/mv/revelation/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/revelation/05.mp3",
+                                          "mv":  "assets/mv/revelation/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "city-zoo",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/city-zoo/01.mp3",
+                                          "mv":  "assets/mv/city-zoo/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/city-zoo/02.mp3",
+                                          "mv":  "assets/mv/city-zoo/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/city-zoo/03.mp3",
+                                          "mv":  "assets/mv/city-zoo/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/city-zoo/04.mp3",
+                                          "mv":  "assets/mv/city-zoo/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/city-zoo/05.mp3",
+                                          "mv":  "assets/mv/city-zoo/05.mp4"
+                                      },
+                                      {
+                                          "index":  6,
+                                          "audio":  "assets/audio/city-zoo/06.mp3",
+                                          "mv":  "assets/mv/city-zoo/06.mp4"
+                                      },
+                                      {
+                                          "index":  7,
+                                          "audio":  "assets/audio/city-zoo/07.mp3",
+                                          "mv":  "assets/mv/city-zoo/07.mp4"
+                                      },
+                                      {
+                                          "index":  8,
+                                          "audio":  "assets/audio/city-zoo/08.mp3",
+                                          "mv":  "assets/mv/city-zoo/08.mp4"
+                                      },
+                                      {
+                                          "index":  9,
+                                          "audio":  "assets/audio/city-zoo/09.mp3",
+                                          "mv":  "assets/mv/city-zoo/09.mp4"
+                                      },
+                                      {
+                                          "index":  10,
+                                          "audio":  "assets/audio/city-zoo/10.mp3",
+                                          "mv":  "assets/mv/city-zoo/10.mp4"
+                                      },
+                                      {
+                                          "index":  11,
+                                          "audio":  "assets/audio/city-zoo/11.mp3",
+                                          "mv":  "assets/mv/city-zoo/11.mp4"
+                                      },
+                                      {
+                                          "index":  12,
+                                          "audio":  "assets/audio/city-zoo/12.mp3",
+                                          "mv":  "assets/mv/city-zoo/12.mp4"
+                                      },
+                                      {
+                                          "index":  13,
+                                          "audio":  "assets/audio/city-zoo/13.mp3",
+                                          "mv":  "assets/mv/city-zoo/13.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "heartbeat",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/heartbeat/01.mp3",
+                                          "mv":  "assets/mv/heartbeat/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/heartbeat/02.mp3",
+                                          "mv":  "assets/mv/heartbeat/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/heartbeat/03.mp3",
+                                          "mv":  "assets/mv/heartbeat/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/heartbeat/04.mp3",
+                                          "mv":  "assets/mv/heartbeat/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/heartbeat/05.mp3",
+                                          "mv":  "assets/mv/heartbeat/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "xposed",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/xposed/01.mp3",
+                                          "mv":  "assets/mv/xposed/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/xposed/02.mp3",
+                                          "mv":  "assets/mv/xposed/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/xposed/03.mp3",
+                                          "mv":  "assets/mv/xposed/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/xposed/04.mp3",
+                                          "mv":  "assets/mv/xposed/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/xposed/05.mp3",
+                                          "mv":  "assets/mv/xposed/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "mysecret",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/mysecret/01.mp3",
+                                          "mv":  "assets/mv/mysecret/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/mysecret/02.mp3",
+                                          "mv":  "assets/mv/mysecret/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/mysecret/03.mp3",
+                                          "mv":  "assets/mv/mysecret/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/mysecret/04.mp3",
+                                          "mv":  "assets/mv/mysecret/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/mysecret/05.mp3",
+                                          "mv":  "assets/mv/mysecret/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "18",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/18/01.mp3",
+                                          "mv":  "assets/mv/18/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/18/02.mp3",
+                                          "mv":  "assets/mv/18/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/18/03.mp3",
+                                          "mv":  "assets/mv/18/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/18/04.mp3",
+                                          "mv":  "assets/mv/18/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/18/05.mp3",
+                                          "mv":  "assets/mv/18/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "gem-ep",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/gem-ep/01.mp3",
+                                          "mv":  "assets/mv/gem-ep/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/gem-ep/02.mp3",
+                                          "mv":  "assets/mv/gem-ep/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/gem-ep/03.mp3",
+                                          "mv":  "assets/mv/gem-ep/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/gem-ep/04.mp3",
+                                          "mv":  "assets/mv/gem-ep/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/gem-ep/05.mp3",
+                                          "mv":  "assets/mv/gem-ep/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "best-of",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/best-of/01.mp3",
+                                          "mv":  "assets/mv/best-of/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/best-of/02.mp3",
+                                          "mv":  "assets/mv/best-of/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/best-of/03.mp3",
+                                          "mv":  "assets/mv/best-of/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/best-of/04.mp3",
+                                          "mv":  "assets/mv/best-of/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/best-of/05.mp3",
+                                          "mv":  "assets/mv/best-of/05.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "time-ep",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/time-ep/01.mp3",
+                                          "mv":  "assets/mv/time-ep/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/time-ep/02.mp3",
+                                          "mv":  "assets/mv/time-ep/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/time-ep/03.mp3",
+                                          "mv":  "assets/mv/time-ep/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/time-ep/04.mp3",
+                                          "mv":  "assets/mv/time-ep/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/time-ep/05.mp3",
+                                          "mv":  "assets/mv/time-ep/05.mp4"
+                                      },
+                                      {
+                                          "index":  6,
+                                          "audio":  "assets/audio/time-ep/06.mp3",
+                                          "mv":  "assets/mv/time-ep/06.mp4"
+                                      }
+                                  ]
+                   },
+                   {
+                       "slug":  "poison-apple",
+                       "tracks":  [
+                                      {
+                                          "index":  1,
+                                          "audio":  "assets/audio/poison-apple/01.mp3",
+                                          "mv":  "assets/mv/poison-apple/01.mp4"
+                                      },
+                                      {
+                                          "index":  2,
+                                          "audio":  "assets/audio/poison-apple/02.mp3",
+                                          "mv":  "assets/mv/poison-apple/02.mp4"
+                                      },
+                                      {
+                                          "index":  3,
+                                          "audio":  "assets/audio/poison-apple/03.mp3",
+                                          "mv":  "assets/mv/poison-apple/03.mp4"
+                                      },
+                                      {
+                                          "index":  4,
+                                          "audio":  "assets/audio/poison-apple/04.mp3",
+                                          "mv":  "assets/mv/poison-apple/04.mp4"
+                                      },
+                                      {
+                                          "index":  5,
+                                          "audio":  "assets/audio/poison-apple/05.mp3",
+                                          "mv":  "assets/mv/poison-apple/05.mp4"
+                                      }
+                                  ]
+                   }
+               ]
+}
